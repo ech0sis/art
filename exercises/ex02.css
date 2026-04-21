@@ -1,0 +1,35 @@
+li {
+    color: rgb(255, 128, 149);
+    font-size: large;
+    list-style-position: inside ;
+    background: white;
+    width: 70%;
+}
+
+h1 {
+    color: rgb(0, 191, 191);
+    text-align: center;
+    border-style: solid;
+    outline-style: inset;
+    outline-color: white;
+    outline-width: thick
+}
+
+p {
+    color: rgb(229, 100, 122);
+}
+
+h2 {
+    color: rgb(170, 33, 81);
+    border-style: none none dotted none;
+    
+
+}
+html {font-family: cursive;
+ background-color: rgb(255, 214, 221);
+}
+
+img {
+    width: 60%;
+    margin-left: 75px;
+}

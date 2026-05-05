@@ -6,13 +6,13 @@ $("#crAdd").click(function () {
     //test in console
     console.log(crName);
 
-    if(crName.length > 2) {
-$("#creature-list").append("<div>"+crName+"</div>");
+    if (crName.length > 2) {
+        $("#creature-list").append("<div>" + crName + "</div>");
 
     }
 
 
     $("crName").val(""); //write the value
-   // $("crName").val(); //retrieve the value
+    // $("crName").val(); //retrieve the value
 
 });
